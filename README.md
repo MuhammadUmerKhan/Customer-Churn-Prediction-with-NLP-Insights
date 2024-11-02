@@ -14,7 +14,6 @@ This repository contains all the necessary components for analyzing customer chu
 - [References](#references)
 - [Usage Instructions](#usage-instructions)
 - [Running the Project](#running-the-project)
-- [License](#license)
 
 ---
 
@@ -42,12 +41,8 @@ Given the high costs associated with acquiring new customers, in-depth churn ana
    - Utilized sentiment analysis to correlate customer sentiments with churn rates, gaining deeper insights into factors influencing attrition.
 
 4. **Predictive Modeling:**
-   - Developed and fine-tuned machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting.
+   - Developed and fine-tuned machine learning models, including Logistic Regression, Random Forest, and Decision Tree.
    - Evaluated model performance based on metrics such as accuracy, precision, recall, and ROC-AUC score to select the optimal model for churn prediction.
-
-5. **Power BI for Visual Insights:**
-   - Implemented Power BI to create interactive dashboards and visualizations that provide intuitive insights into churn patterns.
-   - Visualized model predictions, feature importance, customer segmentation, and NLP findings to facilitate strategic decision-making and operational planning.
 
 ---
 
@@ -142,4 +137,4 @@ Feel free to adapt the above steps based on your specific use case and programmi
 ---
 
 ## Conclusion
-By leveraging comprehensive churn analysis, robust predictive models, and interactive Power BI visualizations, the telecommunications company can proactively identify at-risk customers, understand churn drivers, and enhance service offerings. This approach fosters customer retention, reduces acquisition costs, and supports sustainable growth. Ultimately, the integration of predictive insights into strategic decision-making enables companies to maintain a competitive edge in a dynamic industry.
+By leveraging comprehensive churn analysis, robust predictive models, and interactive visualizations, the telecommunications company can proactively identify at-risk customers, understand churn drivers, and enhance service offerings. This approach fosters customer retention, reduces acquisition costs, and supports sustainable growth. Ultimately, the integration of predictive insights into strategic decision-making enables companies to maintain a competitive edge in a dynamic industry.
